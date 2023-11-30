@@ -11,7 +11,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   return (
     <Container>
       <Header>
-        <Image src={LogoImage} alt='' />
+        <Image src={LogoImage} alt="" />
       </Header>
       <Component {...pageProps} />
     </Container>

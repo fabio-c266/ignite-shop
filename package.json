@@ -10,11 +10,15 @@
   },
   "dependencies": {
     "@stitches/react": "^1.2.8",
+    "axios": "^1.6.2",
+    "keen-slider": "^6.8.6",
     "next": "14.0.2",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "stripe": "^14.4.0"
   },
   "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
     "@types/node": "20.9.0",
     "@types/react": "18.2.37",
     "@types/react-dom": "18.2.15",
